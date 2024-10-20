@@ -1,12 +1,12 @@
 
 .encabezado{
-    background-color: rgb(250, 93, 93);
+    background-color: rgb(43, 187, 30);
     font-size: 5rem;
     text-align: center;
 }
 
 body{
-    background-color: rgb(226, 164, 164);
+    background-color: rgb(84, 211, 67);
 }
 
 a{
@@ -16,7 +16,7 @@ a{
 }
 
 .nav-bar{
-    background-color: lightcoral;
+    background-color: rgb(85, 216, 113);
     display: flex;
     justify-content:space-evenly;
     font-weight: bold;
@@ -44,7 +44,7 @@ h1{
 }
 
 .cuerpo{
-    background-color: rgb(226, 164, 164);
+    background-color: rgb(93, 226, 153);
 }
 .h1{
     padding: 2rem;
